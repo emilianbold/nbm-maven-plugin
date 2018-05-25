@@ -108,7 +108,7 @@ For the NetBeans Platform/IDE modules, there are artifacts that aggregate module
     <dependencies>
         <dependency>
             <groupId>org.netbeans.cluster</groupId>
-            <artifactId>platform8</artifactId>
+            <artifactId>platform</artifactId>
             <version>${netbeans.version}</version>
             <type>pom</type>
         </dependency>
